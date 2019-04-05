@@ -1,0 +1,261 @@
+[
+  {
+    "number": "E100",
+    "name": "Curcumin/Tumeric",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if pure grind turmeric powder or granular. Mushbooh if used as liquid, the solvents has to be Halal. Haraam if hidden ingredient is pork fat based emulsifier in dry mix."
+  },
+  {
+    "number": "E101",
+    "name": "Riboflavin (Vitamin B2)",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Mushbooh (Haraam if from pork liver & Kidney, Halal if 100% plant material"
+  },
+  {
+    "number": "E102",
+    "name": "Tartrazine",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E104",
+    "name": "Quinoline Yellow",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent other than water has to be Halal"
+  },
+  {
+    "number": "E110",
+    "name": "Sunset Yellow FCF / Orange Yellow S",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E120",
+    "name": "Cochineal / Carminic Acid",
+    "description": "Color",
+    "status": "haraam",
+    "notes": "Source: From insect Cochineal"
+  },
+  {
+    "number": "E122",
+    "name": "Carmoisine / Azorubine",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E123",
+    "name": "Amaranth",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E124",
+    "name": "Ponceau 4R / Cochineal Red A",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E127",
+    "name": "Erythrosine BS",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E131",
+    "name": "Patent Blue V",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E132",
+    "name": "Indigo Carmine / Idigotine",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if use as is as a 100% synthetic color  but if pork glycerin is added as a solvent then it is Haraam"
+  },
+  {
+    "number": "E140",
+    "name": "Chlorophyll",
+    "description": "Color",
+    "status": "halal",
+    "notes": "Halal if use 100% powder or Halal if water or vegetable oil was used as a solvent"
+  },
+  {
+    "number": "E141",
+    "name": "Copper Complex of Chlorophyll",
+    "description": "Color",
+    "status": "halal",
+    "notes": "Halal if use 100% powder or Halal if water or vegetable oil was used as a solvent"
+  },
+  {
+    "number": "E142",
+    "name": "Green S / Acid Brilliant Green BS",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E150a",
+    "name": "Caramel Color/with chemicals",
+    "description": "Color",
+    "status": "halal",
+    "notes": ""
+  },
+  {
+    "number": "E150b",
+    "name": "Caramel Color/with chemicals",
+    "description": "Color",
+    "status": "halal",
+    "notes": ""
+  },
+  {
+    "number": "E150c",
+    "name": "Caramel Color/with chemicals",
+    "description": "Color",
+    "status": "halal",
+    "notes": ""
+  },
+  {
+    "number": "E150d",
+    "name": "Caramel Color/with chemicals",
+    "description": "Color",
+    "status": "halal",
+    "notes": ""
+  },
+  {
+    "number": "E151",
+    "name": "Black PN / Brilliant Black BN",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E153",
+    "name": "Carbon Black / Vegetable Carbon (Charcoal)",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E160a",
+    "name": "Alpha, Beta, Gamma",
+    "description": "Color - Carotene",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E160b",
+    "name": "Annatto, Bixin, Norbixin",
+    "description": "Color - Carotene",
+    "status": "halal",
+    "notes": ""
+  },
+  {
+    "number": "E160c",
+    "name": "Capsanthin / Capsorbin",
+    "description": "Color - Carotene",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E160d",
+    "name": "Lycopene",
+    "description": "Color - Carotene",
+    "status": "",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E160e",
+    "name": "Beta-apo-8-carotenal",
+    "description": "Color - Carotene",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry powder or granular or Halal if vegetable oil is used as a solvent in liquid form as a hidden ingredient. Haraam if pork gelatin is used as hidden ingredient or carrier"
+  },
+  {
+    "number": "E160f",
+    "name": "Ethyl ester of Beta-apo-8-cartonoic acid",
+    "description": "Color - Carotene",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry powder or granular or Halal if vegetable oil is used as a solvent in liquid form as a hidden ingredient. Haraam if pork gelatin is used as hidden ingredient or carrier"
+  },
+  {
+    "number": "E161a",
+    "name": "Flavoxanthin",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E161b",
+    "name": "Lutein",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry powder or granular. Haraam if pork gelatin or pork glycerin is added in dry or liquid form"
+  },
+  {
+    "number": "E161c",
+    "name": "Cryptoxanthin",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E161d",
+    "name": "Rubixanthin",
+    "description": "Color",
+    "status": "",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E161e",
+    "name": "Violaxanthin",
+    "description": "Color",
+    "status": "",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E161f",
+    "name": "Rhodoxanthin",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E161g",
+    "name": "Canthaxanthin",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E162",
+    "name": "Beetroot Red / Betanin",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E163",
+    "name": "Anthocyanins",
+    "description": "Color",
+    "status": "mushbooh",
+    "notes": "Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+  },
+  {
+    "number": "E102",
+    "name": "",
+    "description": "",
+    "status": "",
+    "notes": ""
+  }
+]
